@@ -1,0 +1,27 @@
+p{color: yellow;}
+g{color: white;}
+#red {
+  color: red;}
+img{
+  width: 275;
+  margin left: 20;
+  Border-style: line; 
+  border-color: red;
+  border: 5px;
+}
+.Charmander {
+  color: Red;
+  font-size: 24pt;
+}
+.Pikachu {
+  color: Yellow;
+  font-size: 24pt
+}
+.Bulbasaur {
+  color: Green;
+  font-size: 24pt;
+}
+.Gyarados {
+  color:Blue
+  font-size:24pt
+}
